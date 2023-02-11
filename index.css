@@ -1,0 +1,11 @@
+.head {
+    background-color: black;
+    color: whitesmoke;
+}
+
+#ZO {
+    border-radius: 20px;
+    border: 10px double burlywood;
+    object-fit: contain;
+    outline: 3px solid red;
+}
